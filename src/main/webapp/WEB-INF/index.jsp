@@ -9,6 +9,5 @@
 <body>
 	<h2>Hello World!</h2>
 	<p>Nombre de user : ${nb}</p>
-	${"toto"} ${ true && true }
 </body>
 </html>
