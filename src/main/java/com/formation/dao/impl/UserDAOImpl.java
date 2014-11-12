@@ -11,7 +11,7 @@ import javax.persistence.criteria.Root;
 import org.springframework.stereotype.Repository;
 
 import com.formation.dao.UserDAO;
-import com.formation.model.User;
+import com.formation.entity.User;
 
 /**
  * The Class UserDAOImpl.

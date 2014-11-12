@@ -11,8 +11,8 @@ import javax.servlet.http.HttpServletResponse;
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.support.ClassPathXmlApplicationContext;
 
+import com.formation.entity.User;
 import com.formation.manager.UserManager;
-import com.formation.model.User;
 
 /**
  * The Class HelloServlet.

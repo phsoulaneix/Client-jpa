@@ -2,7 +2,7 @@ package com.formation.manager;
 
 import java.util.List;
 
-import com.formation.model.User;
+import com.formation.entity.User;
 
 /**
  * The Interface UserManager.

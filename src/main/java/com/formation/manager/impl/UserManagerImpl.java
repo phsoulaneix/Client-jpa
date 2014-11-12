@@ -7,8 +7,8 @@ import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
 
 import com.formation.dao.UserDAO;
+import com.formation.entity.User;
 import com.formation.manager.UserManager;
-import com.formation.model.User;
 
 /**
  * The Class UserManagerImpl.

@@ -5,4 +5,4 @@
  * @author Soulaneix
  *
  */
-package com.formation.model;
+package com.formation.entity;
